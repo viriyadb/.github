@@ -1,12 +1,15 @@
-## Hi there 👋
+## Commit Types
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Type | Description |
+|------|-------------|
+| `feat:` | A new feature |
+| `fix:` | A bug fix |
+| `docs:` | Documentation only |
+| `style:` | Formatting, no code change (whitespace, semicolons) |
+| `refactor:` | Code change that isn't a fix or feature |
+| `perf:` | Performance improvement |
+| `test:` | Adding or fixing tests |
+| `build:` | Build system or dependencies |
+| `ci:` | CI config |
+| `chore:` | Maintenance, tooling |
+| `revert:` | Reverts a previous commit |
