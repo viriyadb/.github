@@ -10,7 +10,7 @@
 Brief description of what this org is for, what it owns, and who it
 serves. One or two sentences.
 
-**Org owner:** [Viriya Khulung](https://github.com/viriyakhulung) · **Admins:** [Muhamad Lutfi Azizan](https://github.com/mlutfiazizan13)
+**Org owner:** [Khulung Bursa](https://github.com/viriyakhulung) · **Admins:** [Muhamad Lutfi Azizan](https://github.com/mlutfiazizan13)
 
 ---
 
